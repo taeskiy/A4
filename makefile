@@ -18,6 +18,8 @@ gpu.o: gpu.cu gpu.h
 animate.o: animate.cu animate.h
 	/usr/local/cuda/bin/nvcc -c animate.cu
 
+# more files to compile will go here
+
 clean:
 	rm interface.o
 	rm gpu.o
