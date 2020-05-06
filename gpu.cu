@@ -8,7 +8,7 @@ Ali here again!!!
 #include <stdio.h>
 #include "gpu.h"
 
-
+texture<float, 2> blueTex;
 
 /******************************************************************************/
 APopulation initializePop(unsigned int width, unsigned int height){
