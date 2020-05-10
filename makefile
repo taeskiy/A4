@@ -1,5 +1,6 @@
 # this is a makefile - COMMENTS GO HERE
 # this is comment from Filipp
+# this is comment from Beksultan
 
 
 F1= -L/usr/local/cuda/lib64
